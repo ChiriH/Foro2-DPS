@@ -9,4 +9,4 @@
 
 ## Video funcionamiento:
 
-- 📄 Video Google Drive [Login - Firebase](https://drive.google.com/file/d/18ZdtMzTsKPFmlMkoICj4iN8nGMdZwUdc/view?usp=sharing)
+- 📄 Video Google Drive ([Login - Firebase](https://drive.google.com/file/d/18ZdtMzTsKPFmlMkoICj4iN8nGMdZwUdc/view?usp=sharing))
